@@ -1,0 +1,42 @@
+category,subcategory,manufacturer,model,capacity,voltage,price_ngn,type,efficiency,warranty,description
+panel,mono,Jinko,Tiger Neo 550W,550,41.2,185000,mono,21.3,25,Jinko Tiger Neo 550W Mono PERC
+panel,mono,Jinko,Tiger Neo 500W,500,41,168000,mono,21.1,25,Jinko Tiger Neo 500W Mono PERC
+panel,mono,JA Solar,DeepBlue 3.0 535W,535,41.3,175000,mono,20.9,25,JA Solar DeepBlue 3.0 535W
+panel,mono,JA Solar,DeepBlue 3.0 455W,455,41.1,152000,mono,20.7,25,JA Solar DeepBlue 3.0 455W
+panel,mono,Canadian Solar,HiHero 445W,445,41.5,165000,mono,22.8,25,Canadian Solar HiHero 445W
+panel,mono,Canadian Solar,BiHiKu 405W,405,41.2,145000,mono,20.5,25,Canadian Solar BiHiKu 405W
+panel,mono,Trina Solar,Vertex S 450W,450,41.4,160000,mono,21.2,25,Trina Solar Vertex S 450W
+panel,mono,Longi,Hi-MO 5 540W,540,41.3,178000,mono,21.3,25,Longi Hi-MO 5 540W
+panel,mono,Longi,Hi-MO 4 455W,455,41.1,155000,mono,20.9,25,Longi Hi-MO 4 455W
+panel,poly,Risen,Poly 330W,330,38.5,95000,poly,17.2,10,Risen Polycrystalline 330W
+panel,poly,Yingli,Poly 320W,320,38.2,92000,poly,16.8,10,Yingli Polycrystalline 320W
+,,,,,,,,,,
+inverter,hybrid,Victron,MultiPlus 48/3000VA,3000,48,850000,hybrid,94,5,Victron MultiPlus 48/3000VA Hybrid
+inverter,hybrid,Victron,MultiPlus 48/5000VA,5000,48,1250000,hybrid,95,5,Victron MultiPlus 48/5000VA Hybrid
+inverter,hybrid,Growatt,SPF 5000 ES,5000,48,650000,hybrid,93,5,Growatt SPF 5000 ES Hybrid
+inverter,hybrid,Growatt,MIN 3000TL,3000,48,420000,hybrid,92,5,Growatt MIN 3000TL Hybrid
+inverter,hybrid,Schneider,Conext SW 3048,3000,48,950000,hybrid,96,5,Schneider Conext SW 3048
+inverter,hybrid,Deye,SUN-5K-SG01LP1,5000,48,580000,hybrid,93,5,Deye SUN-5K-SG01LP1 Hybrid
+inverter,hybrid,Felicity,Solar Inverter 3kVA,3000,48,380000,pure sine,92,2,Felicity 3kVA Pure Sine Wave
+inverter,hybrid,Felicity,Solar Inverter 5kVA,5000,48,550000,pure sine,92,2,Felicity 5kVA Pure Sine Wave
+inverter,off-grid,Must,PV1800 24V,1800,24,220000,pure sine,90,1,Must PV1800 24V Off-grid
+inverter,off-grid,MPP Solar,PIP 2424MSD,2400,24,290000,pure sine,91,2,MPP Solar PIP 2424MSD
+,,,,,,,,,,
+battery,lithium,Jinko,LFP 5.12kWh,5120,51.2,950000,lithium,98,10,Jinko Lithium 5.12kWh
+battery,lithium,Pylontech,US3000C 3.5kWh,3500,48,680000,lithium,97,10,Pylontech US3000C 3.5kWh
+battery,lithium,Dynavolt,LFP 2.4kWh,2400,51.2,480000,lithium,98,5,Dynavolt Lithium 2.4kWh
+battery,lithium,BlueNova,BN48V-80,4000,48,720000,lithium,98,10,BlueNova BN48V-80 4kWh
+battery,lead-acid,Trojan,T-105 RE,225,6,65000,flooded,85,3,Trojan T-105 RE Flooded
+battery,lead-acid,Victron,AGM 12V 200Ah,200,12,220000,agm,85,5,Victron AGM 12V 200Ah
+battery,lead-acid,Fullriver,DC224-6 224Ah,224,6,70000,agm,85,5,Fullriver DC224-6 AGM
+battery,lead-acid,Universal,12V 200Ah,200,12,180000,gel,85,3,Universal Gel 12V 200Ah
+battery,lead-acid,SAC,12V 150Ah,150,12,135000,agm,85,2,SAC AGM 12V 150Ah
+,,,,,,,,,,
+controller,mppt,Victron,SmartSolar 150/70,70,150,320000,mppt,98,5,Victron SmartSolar MPPT 150/70
+controller,mppt,Victron,SmartSolar 100/30,30,100,180000,mppt,98,5,Victron SmartSolar MPPT 100/30
+controller,mppt,EPEVER,Tracer 8415AN,80,150,220000,mppt,97,3,EPEVER Tracer 8415AN MPPT
+controller,mppt,EPEVER,Tracer 4215AN,40,150,120000,mppt,97,3,EPEVER Tracer 4215AN MPPT
+controller,mppt,Midnite,Classic 150,96,150,280000,mppt,97,5,Midnite Classic 150 MPPT
+controller,mppt,Outback,FM80,80,150,250000,mppt,97,5,Outback FM80 MPPT
+controller,pwm,EPEVER,VS6048AU,60,48,65000,pwm,90,2,EPEVER VS6048AU PWM
+controller,pwm,Victron,BlueSolar PWM 12/24V,30,28,85000,pwm,90,3,Victron BlueSolar PWM
