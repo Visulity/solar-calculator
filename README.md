@@ -1,0 +1,2 @@
+# solar-calculator
+All Goood
